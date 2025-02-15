@@ -7,6 +7,7 @@ I want to get used to making managable scopes for projects so I don't get burnt 
   <li>cd -> goes into file</li>
   <li>cd.. -> backtracks to the folder above </li>
   <li>You have to install openSSL for node to work in command prompt. When downloading Node, choose to install extra files, then you can do-> choco install openssl</li>
+  <li>While writing cd and then a file/folder name after, press tab to auto complete the name of the file/folder</li>
 </ul>
 <h4>Clean code tips:</h4>
 <ul>
