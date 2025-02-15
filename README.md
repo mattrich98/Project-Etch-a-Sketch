@@ -14,3 +14,7 @@ I want to get used to making managable scopes for projects so I don't get burnt 
   <li>Sometimes function and code can explain itself, comments aren't always necessary, it can be read in the git log of a project/repo</li>
   <li>Delete code that isn't being used/not needed anymore.</li>
 </ul>
+<h4>node - npm - jest tips</h4>
+<ul>
+  <li>The directory of the files can mess with using jest, the solution was to make a simple directory with a simple name.</li>
+</ul>
