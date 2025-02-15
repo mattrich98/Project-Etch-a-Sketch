@@ -16,6 +16,6 @@ I want to get used to making managable scopes for projects so I don't get burnt 
 </ul>
 <h4>Node - NPM - jest tips:</h4>
 <ul>
-  <li>The directory of the files can mess with using jest, the solution was to make a simple directory with a simple name.</li>
+  <li>The directory of the files can mess with using jest, the solution was to make a simple directory with a simple name. (Maybe the folder called, '.git' messed with locating the files)</li>
   <li>If there is a similar situation where something doesn't work and you don't know why, maybe replicating or doing the task completely from scratch, (by pretending you are a new user) is a good idea.</li>
 </ul>
