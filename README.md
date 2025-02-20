@@ -23,5 +23,5 @@ I want to get used to making managable scopes for projects so I don't get burnt 
 <h4>Other Tips:</h4>
 <ul>
   <li>Methods can be chained together in one line, such as array methods for example: string.split('').reverse().join('');</li>
-  <li>...args lets you pass multiple arguments in a function</li>
+  <li>'...' lets you pass multiple arguments in a function. For example: const removedArray = function(passedArray, ...){}</li>
 </ul>
