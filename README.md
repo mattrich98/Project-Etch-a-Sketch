@@ -25,5 +25,6 @@ I want to get used to making managable scopes for projects so I don't get burnt 
   <li>Methods can be chained together in one line, such as array methods for example: string.split('').reverse().join('');</li>
   <li>'...' lets you pass multiple arguments in a function. For example: const removedArray = function(passedArray, ...args){}</li>
   <li>Use const for arrays</li>
-  <li>Youtube odin project questions when stuck to learn easier and save time, (https://www.youtube.com/watch?v=Qru6rRxEzlY&ab_channel=CodewithSajid) This video was really helpful and had other tips</li>
+  <li>Youtube odin project questions when stuck to learn easier and save time, 
+    <br>(https://www.youtube.com/watch?v=Qru6rRxEzlY&ab_channel=CodewithSajid) This video was really helpful and had other tips</li>
 </ul>
